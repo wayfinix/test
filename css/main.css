@@ -771,8 +771,8 @@ video {
   max-width: 160px;
 }
 
-.max-w-\[500px\] {
-  max-width: 500px;
+.max-w-\[200px\] {
+  max-width: 200px;
 }
 
 .max-w-full {
@@ -781,14 +781,6 @@ video {
 
 .max-w-sm {
   max-width: 24rem;
-}
-
-.max-w-\[200px\] {
-  max-width: 200px;
-}
-
-.max-w-\[300px\] {
-  max-width: 300px;
 }
 
 .rotate-180 {
